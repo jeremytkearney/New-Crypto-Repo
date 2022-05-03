@@ -1,0 +1,41 @@
+.input {
+    margin: 2%;
+    padding: 5px 15px;
+    width: auto;
+    text-align: center;
+    border-radius: 10px;
+    border-color: green;
+}
+
+.button {
+    width: auto;
+    padding: 5px 15px;
+    background-color: lightgreen;
+    border-radius: 10px;
+    border-color: green;
+}
+
+.msg_container {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.encrypted_msg_container {
+    background-color: #E6FFE3;
+    width: fit-content;
+    margin: auto;
+    padding: 2px;
+    margin-top: 10px;
+}
+
+.encrypted_msg {
+    margin: 20px;
+}
+
+.instruction {
+    margin: auto;
+    border: 5px solid lightgreen;
+    width: fit-content;
+    padding: 10px;
+    margin-top: 10px;
+}

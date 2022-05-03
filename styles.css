@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+.pageHeader {
+    font-family: Ubuntu;
+    font-weight: bold;
+    text-align:center;
+    width: inherit;
+    font-size:larger;
+}
+
+.wordleCell{
+    background-color: gray;
+    width: 100px;
+    height: 100px;
+}
+
+.spacer{
+    height:25px;
+}
+
+.wordInput{
+    background-color:inherit;
+    font-family:Ubuntu;
+    color: white;
+    width:inherit;
+    height:inherit;
+    border:none;
+    text-align:center;
+    font-size:x-large;
+}
+
+
+

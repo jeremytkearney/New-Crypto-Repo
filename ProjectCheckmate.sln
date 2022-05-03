@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ProjectCheckmate", "ProjectCheckmate.njsproj", "{17E03D57-5B52-4205-A365-64E15780F731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17E03D57-5B52-4205-A365-64E15780F731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E03D57-5B52-4205-A365-64E15780F731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E03D57-5B52-4205-A365-64E15780F731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E03D57-5B52-4205-A365-64E15780F731}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D081F385-A606-4F8F-9156-4402E62D1360}
+	EndGlobalSection
+EndGlobal

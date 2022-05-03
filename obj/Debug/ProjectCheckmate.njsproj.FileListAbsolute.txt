@@ -1,0 +1,4 @@
+C:\Users\hanna\source\repos\CryptographyProject\ProjectCheckmate\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\jedij\Desktop\git\CryptographyProject\ProjectCheckmate\obj\Debug\ProjectCheckmate.njsproj.AssemblyReference.cache
+C:\Users\jedij\Desktop\git\CryptographyProject\ProjectCheckmate\obj\Debug\ProjectCheckmate.njsproj.CoreCompileInputs.cache
+C:\Users\jedij\Desktop\git\CryptographyProject\ProjectCheckmate\bin\Microsoft.NodejsTools.WebRole.dll
